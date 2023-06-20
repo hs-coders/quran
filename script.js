@@ -28,61 +28,61 @@ let All_song = [
    
 {
      name: "الفَاتِحَة",
-     path: "music/001.mp3",
+     path: "https://server12.mp3quran.net/maher/001.mp3",
      img: "img/img1.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "البَقَرَة",
-     path: "music/002.mp3",
+     path: "https://server12.mp3quran.net/maher/002.mp3",
      img: "img/img2.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "آل عِمرَان",
-     path: "music/003.mp3",
+     path: "https://server12.mp3quran.net/maher/003.mp3",
      img: "img/img3.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "النِّسَاء",
-     path: "music/004.mp3",
+     path: "https://server12.mp3quran.net/maher/004.mp3",
      img: "img/img4.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "المَائدة",
-     path: "music/005.mp3",
+     path: "https://server12.mp3quran.net/maher/005.mp3",
      img: "img/img5.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الأنعَام",
-     path: "music/006.mp3",
+     path: "https://server12.mp3quran.net/maher/006.mp3",
      img: "img/img6.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "الأعرَاف",
-     path: "music/007.mp3",
+     path: "https://server12.mp3quran.net/maher/007.mp3",
      img: "img/img7.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الأنفَال",
-     path: "music/008.mp3",
+     path: "https://server12.mp3quran.net/maher/008.mp3",
      img: "img/img8.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "التوبَة",
-     path: "music/009.mp3",
+     path: "https://server12.mp3quran.net/maher/009.mp3",
      img: "img/img9.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "يُونس",
-     path: "music/010.mp3",
+     path: "https://server12.mp3quran.net/maher/010.mp3",
      img: "img/img10.jpg",
      singer: "ماهر المعيقلي"
    }
@@ -90,61 +90,61 @@ let All_song = [
    ,
    {
      name: "هُود",
-     path: "music/011.mp3",
+     path: "https://server12.mp3quran.net/maher/011.mp3",
      img: "img/img11.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "يُوسُف",
-     path: "music/012.mp3",
+     path: "https://server12.mp3quran.net/maher/012.mp3",
      img: "img/img12.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "الرَّعْد",
-     path: "music/013.mp3",
+     path: "https://server12.mp3quran.net/maher/013.mp3",
      img: "img/img13.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "إبراهِيم",
-     path: "music/014.mp3",
+     path: "https://server12.mp3quran.net/maher/014.mp3",
      img: "img/img14.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الحِجْر",
-     path: "music/015.mp3",
+     path: "https://server12.mp3quran.net/maher/015.mp3",
      img: "img/img15.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "النَّحْل",
-     path: "music/016.mp3",
+     path: "https://server12.mp3quran.net/maher/016.mp3",
      img: "img/img16.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "الإسْرَاء",
-     path: "music/017.mp3",
+     path: "https://server12.mp3quran.net/maher/017.mp3",
      img: "img/img17.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الكهْف",
-     path: "music/018.mp3",
+     path: "https://server12.mp3quran.net/maher/018.mp3",
      img: "img/img18.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "مَريَم",
-     path: "music/019.mp3",
+     path: "https://server12.mp3quran.net/maher/019.mp3",
      img: "img/img19.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "طه ",
-     path: "music/020.mp3",
+     path: "https://server12.mp3quran.net/maher/020.mp3",
      img: "img/img20.jpg",
     singer: "ماهر المعيقلي"
    }
@@ -152,181 +152,181 @@ let All_song = [
    ,
    {
      name: "الأنبيَاء ",
-     path: "music/021.mp3",
+     path: "https://server12.mp3quran.net/maher/021.mp3",
      img: "img/img21.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " الحَج",
-     path: "music/022.mp3",
+     path: "https://server12.mp3quran.net/maher/022.mp3",
      img: "img/img22.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " المُؤمنون",
-     path: "music/023.mp3",
+     path: "https://server12.mp3quran.net/maher/023.mp3",
      img: "img/img23.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " النُّور",
-     path: "music/024.mp3",
+     path: "https://server12.mp3quran.net/maher/024.mp3",
      img: "img/img24.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " الفُرْقان",
-     path: "music/025.mp3",
+     path: "https://server12.mp3quran.net/maher/025.mp3",
      img: "img/img25.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الشُّعَرَاء ",
-     path: "music/026.mp3",
+     path: "https://server12.mp3quran.net/maher/026.mp3",
      img: "img/img26.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " النَّمْل",
-     path: "music/027.mp3",
+     path: "https://server12.mp3quran.net/maher/027.mp3",
      img: "img/img27.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "القَصَص ",
-     path: "music/028.mp3",
+     path: "https://server12.mp3quran.net/maher/028.mp3",
      img: "img/img28.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " العَنكبوت	",
-     path: "music/029.mp3",
+     path: "https://server12.mp3quran.net/maher/029.mp3",
      img: "img/img29.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "الرُّوم ",
-     path: "music/030.mp3",
+     path: "https://server12.mp3quran.net/maher/030.mp3",
      img: "img/img30.jpg",
     singer: "ماهر المعيقلي"
    } ,
    {
      name: " لقمَان",
-     path: "music/031.mp3",
+     path: "https://server12.mp3quran.net/maher/031.mp3",
      img: "img/img31.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "السَّجدَة ",
-     path: "music/032.mp3",
+     path: "https://server12.mp3quran.net/maher/032.mp3",
      img: "img/img32.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " الأحزَاب",
-     path: "music/033.mp3",
+     path: "https://server12.mp3quran.net/maher/033.mp3",
      img: "img/img33.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "سَبَأ ",
-     path: "music/034.mp3",
+     path: "https://server12.mp3quran.net/maher/034.mp3",
      img: "img/img34.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " فَاطِر",
-     path: "music/035.mp3",
+     path: "https://server12.mp3quran.net/maher/035.mp3",
      img: "img/img35.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " يس",
-     path: "music/036.mp3",
+     path: "https://server12.mp3quran.net/maher/036.mp3",
      img: "img/img36.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " الصَّافات",
-     path: "music/037.mp3",
+     path: "https://server12.mp3quran.net/maher/037.mp3",
      img: "img/img37.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " ص",
-     path: "music/038.mp3",
+     path: "https://server12.mp3quran.net/maher/038.mp3",
      img: "img/img38.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " الزُّمَر",
-     path: "music/039.mp3",
+     path: "https://server12.mp3quran.net/maher/039.mp3",
      img: "img/img39.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "غَافِر ",
-     path: "music/040.mp3",
+     path: "https://server12.mp3quran.net/maher/040.mp3",
      img: "img/img40.jpg",
     singer: "ماهر المعيقلي"
    } ,
    {
      name: " فُصِّلَتْ",
-     path: "music/041.mp3",
+     path: "https://server12.mp3quran.net/maher/041.mp3",
      img: "img/img41.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الشُّورَى ",
-     path: "music/042.mp3",
+     path: "https://server12.mp3quran.net/maher/042.mp3",
      img: "img/img42.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " الزُّخْرُف",
-     path: "music/043.mp3",
+     path: "https://server12.mp3quran.net/maher/043.mp3",
      img: "img/img43.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: "الدخَان ",
-     path: "music/044.mp3",
+     path: "https://server12.mp3quran.net/maher/044.mp3",
      img: "img/img44.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " الجَاثيَة",
-     path: "music/045.mp3",
+     path: "https://server12.mp3quran.net/maher/045.mp3",
      img: "img/img45.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " الأحْقاف",
-     path: "music/046.mp3",
+     path: "https://server12.mp3quran.net/maher/046.mp3",
      img: "img/img46.jpg",
      singer: "ماهر المعيقلي"
    },
    {
      name: " محَمَّد",
-     path: "music/047.mp3",
+     path: "https://server12.mp3quran.net/maher/047.mp3",
      img: "img/img47.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " الفَتْح",
-     path: "music/048.mp3",
+     path: "https://server12.mp3quran.net/maher/048.mp3",
      img: "img/img48.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: " الحُجرَات",
-     path: "music/049.mp3",
+     path: "https://server12.mp3quran.net/maher/049.mp3",
      img: "img/img49.jpg",
     singer: "ماهر المعيقلي"
    },
    {
      name: "ق ",
-     path: "music/050.mp3",
+     path: "https://server12.mp3quran.net/maher/050.mp3",
      img: "img/img50.jpg",
     singer: "ماهر المعيقلي"
    } ,
